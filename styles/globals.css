@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&family=Ubuntu&display=swap');
+
+@tailwind utilities;
+
+body{
+    background: #fff;
+    font-family: 'Ubuntu', sans-serif;
+}
